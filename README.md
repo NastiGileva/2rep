@@ -8,6 +8,13 @@
         <script src="main.js"></script> 
     </head>
     <body>
+    <header>
+    <nav>
+            <a href="#services">Услуги</a>
+            <a href="#contacts">Контакты</a>
+            <a href="#name">Имя</a>
+        </nav>
+    </header>
 
 
     </body>
