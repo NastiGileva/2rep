@@ -10,7 +10,7 @@
     <body>
     <header>
     <nav>
-            <a href="#services">Предложения</a>
+            <a href="#services client">Услуга для клиента</a>
             <a href="#contacts">Контакты</a>
             <a href="#name">Имя</a>
         </nav>
